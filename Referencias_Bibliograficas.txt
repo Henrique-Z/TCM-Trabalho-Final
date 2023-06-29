@@ -1,0 +1,11 @@
+=====================================================================================
+|**|  Explicação didatica da Condução Bidimensional em Regime Estacionário:
+	- https://wwwp.feb.unesp.br/santiago/cond_2d_perm.pdf
+
+
+=====================================================================================
+|**|  Solução Numérica da Equação de Difusão de Calor em Geometrias Tridimensionais:
+	- https://repositorio.ufpe.br/bitstream/123456789/5645/1/arquivo7657_1.pdf
+
+
+=====================================================================================
